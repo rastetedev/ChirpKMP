@@ -14,6 +14,7 @@ kotlin {
                 implementation(libs.kotlin.stdlib)
                 // Add KMP dependencies here
                 implementation(projects.core.domain)
+                implementation(compose.components.resources)
             }
         }
 
