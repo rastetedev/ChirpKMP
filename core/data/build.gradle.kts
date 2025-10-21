@@ -10,6 +10,7 @@ kotlin {
                 implementation(libs.kotlin.stdlib)
                 implementation(projects.core.domain)
                 implementation(libs.bundles.ktor.common)
+                implementation(libs.touchlab.kermit)
             }
         }
 
