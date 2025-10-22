@@ -1,4 +1,4 @@
-package com.raulastete.core.designsystem.components.textfields
+package com.raulastete.core.designsystem.components.textfield
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
