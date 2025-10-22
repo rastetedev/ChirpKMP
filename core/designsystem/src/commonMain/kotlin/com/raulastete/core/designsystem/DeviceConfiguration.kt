@@ -1,4 +1,4 @@
-package com.raulastete.core.presentation
+package com.raulastete.core.designsystem
 
 import androidx.compose.material3.adaptive.currentWindowAdaptiveInfo
 import androidx.compose.runtime.Composable

@@ -1,4 +1,4 @@
-package com.raulastete.core.designsystem.components
+package com.raulastete.core.designsystem.components.layout
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
